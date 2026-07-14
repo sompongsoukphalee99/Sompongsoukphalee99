@@ -29,9 +29,11 @@
 
 ### 📈 GitHub Stats
 
-<a href="https://github.com/sompongsoukphalee99">
-  <img src="https://github-readme-stats.vercel.app/api?username=sompongsoukphalee99&show_icons=true&theme=radical" alt="Sompong's GitHub Stats" />
-</a>
+<p align="center">
+  <a href="https://github.com/sompongsoukphalee99">
+    <img src="https://github-readme-stats.vercel.app/api?username=sompongsoukphalee99&show_icons=true&theme=radical" alt="Sompong's GitHub Stats" />
+  </a>
+</p>
 
 ---
 
